@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spr-loginpage-dark-react/static/css/main.ad5e6d97.css",
+    "main.js": "/spr-loginpage-dark-react/static/js/main.b0504547.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spr-loginpage-dark-react/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/spr-loginpage-dark-react/index.html",
+    "main.ad5e6d97.css.map": "/spr-loginpage-dark-react/static/css/main.ad5e6d97.css.map",
+    "main.b0504547.js.map": "/spr-loginpage-dark-react/static/js/main.b0504547.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spr-loginpage-dark-react/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad5e6d97.css",
+    "static/js/main.b0504547.js"
+  ]
+}
